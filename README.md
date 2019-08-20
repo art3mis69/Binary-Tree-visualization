@@ -1,2 +1,6 @@
-# Binary-Tree-visualization
-Computer Graphics Visualization using C, Aug 2018,Developed a interphase that represents the working of simple binary tree
+Binary Search Tree Visualization
+
+To run the program :-
+	1) Type make in the current folder which runs the makefile
+	2) run using ./bst
+
